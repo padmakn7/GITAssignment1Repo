@@ -1,1 +1,2 @@
 this is file2.txt
+added new line to file2.txt
